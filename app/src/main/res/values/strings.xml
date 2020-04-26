@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="true_message">The Answer is Correct</string>
+    <string name="false_message">The Answer is Wrong</string>
+    
+    <string name="questio_one">\t\t\tThe smallest bird in the world, the Bee Hummingbird, weighs less than a penny.</string>
+    <string name="questio_two">two</string>
+    <string name="questio_three">three</string>
+    <string name="questio_four">four</string>
+    <string name="questio_five">five</string>
+    <string name="questio_six">six</string>
+    <string name="questio_seven">seven</string>
+    <string name="questio_eight">eight</string>
+</resources>
